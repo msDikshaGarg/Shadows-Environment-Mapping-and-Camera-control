@@ -13,4 +13,8 @@ External code used for handling the environment mapping image handling:
 
 The program renders a cube and displays its shadow. The backgraound is a skybox cube with 6 images rendered on each of its faces to immitate an environment. Pressing the 'W,A,S,D' keys navigates the camera in the corresponding directions. 
 
+![Alt Text](https://github.com/msDikshaGarg/Shadows-Environment-Mapping-and-Camera-control/blob/main/outputs/env.gif)
 
+The direction of the camera can also be changed by scrolling the mouse.
+
+![Alt Text](https://github.com/msDikshaGarg/Shadows-Environment-Mapping-and-Camera-control/blob/main/outputs/shadow%2Benv.gif)
