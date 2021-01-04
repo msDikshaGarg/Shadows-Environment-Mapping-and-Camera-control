@@ -3,9 +3,14 @@ Interactive graphics program for shadow and environment mapping and camera contr
 
 External Libraries used: GLM, GLEW, GLFW.<br>
 
-To run : cmake ../ ; make ; ./Assignment2_bin<br>
+To run: 
+```
+cmake ../ 
+make 
+./Assignment2_bin
+```
+The output file name can be changed in CMakeLists.txt
 
-The output file name can be changed in CMakeLists.txt.<br>
 
 External code used for handling the environment mapping image handling: 
 1. [stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h)
