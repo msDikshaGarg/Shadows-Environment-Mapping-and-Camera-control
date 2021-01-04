@@ -7,7 +7,7 @@ To run:
 ```
 cmake ../ 
 make 
-./Assignment2_bin
+./Assignment4_bin
 ```
 The output file name can be changed in CMakeLists.txt
 
